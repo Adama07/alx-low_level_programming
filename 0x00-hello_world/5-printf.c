@@ -1,5 +1,7 @@
-/* using printf to output*/
 #include <stdio.h>
+/**
+ * this code uses printf
+ */
 int main(void)
 {
 	printf("with proper grammar, but the outcome is a piece of art,\n");
